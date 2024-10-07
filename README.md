@@ -1,6 +1,9 @@
 # dropreach
 
 ### Update Oct.7 2024
+Application now speaks to Postgres database!
+
+### Update Oct.7 2024
 Designed and created postgres database. Tables are: Activity, ActivityLog, ActivitySchedule, CalorieSchedule, DailyLeft, Food, FoodLog, Goal, Meal, MotivationLog, User, WaterLog, WaterSchedule, Weight
 
 I currently have a H2 database running that I can query to and preform CRUD operations via API, which is amazing. I have learned enough SpringBoot to create a web API.
