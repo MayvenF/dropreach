@@ -3,6 +3,10 @@
 ### Update Oct.7 2024
 Application now speaks to Postgres database!
 
+Next steps:
+ - Configure weight amd all the other classes so that the JPA entities match the Postgres database schema
+ - Configure a login system with bCrypt password hashing
+
 ### Update Oct.7 2024
 Designed and created postgres database. Tables are: Activity, ActivityLog, ActivitySchedule, CalorieSchedule, DailyLeft, Food, FoodLog, Goal, Meal, MotivationLog, User, WaterLog, WaterSchedule, Weight
 
